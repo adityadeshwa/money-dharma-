@@ -4,7 +4,7 @@
    ============================================ */
 
 
-var API_BASE_URL = "https://money-dharma.onrender.com/api"; // Change if backend is hosted elsewhere
+var API_BASE_URL ="https://money-dharma-ujfx.onrender.com/api"; // Change if backend is hosted elsewhere
 
 
 // ===== GLOBAL STATE =====
